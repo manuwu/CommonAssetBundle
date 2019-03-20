@@ -14,7 +14,7 @@ public class test1 : MonoBehaviour {
 		
 	}
 
-    void twoTest3()
+    void twoTest22()
     {
     }
 }

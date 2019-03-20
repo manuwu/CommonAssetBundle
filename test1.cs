@@ -18,7 +18,5 @@ public class test1 : MonoBehaviour {
 
     }
 
-    void onrTest3()
-    {
-    }
+
 }
