@@ -13,4 +13,8 @@ public class test1 : MonoBehaviour {
 	void Update () {
 		
 	}
+    void  TestOne()
+    {
+
+    }
 }
