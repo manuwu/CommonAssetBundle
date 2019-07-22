@@ -1,0 +1,5 @@
+1、PC平台目录：C:\ccs
+	找到config.txt 文件，打开修改里面的ip即可，端口不变
+2、Android平台目录 ：安卓文件夹\Android\data\com.ccs.test\files\ccs
+	找到config.txt 文件，打开修改里面的ip即可，端口不变。
+	如果手机系统无法编辑该文件，建议下载WPS手机版可进行编辑。

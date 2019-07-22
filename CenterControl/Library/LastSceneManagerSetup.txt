@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CCS/Scenes/BeginScene.unity
+  isLoaded: 1
+  isActive: 1
